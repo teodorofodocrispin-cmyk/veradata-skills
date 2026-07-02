@@ -10,6 +10,7 @@ Protocol: x402 v2 (`PAYMENT-SIGNATURE` header) — v1 `X-PAYMENT` also accepted
 Networks: Base (`eip155:8453`) and Solana mainnet, USDC
 Discovery: `https://api.veradata.dev/.well-known/x402`
 Docs: `https://api.veradata.dev/llms.txt`
+Human demo (show your team): `https://api.veradata.dev/demo`
 
 ## When to use this skill
 
