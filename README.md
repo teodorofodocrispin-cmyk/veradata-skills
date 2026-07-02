@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://api.veradata.dev/static/logo.png" alt="VeraData" width="220">
+</p>
+
 # VeraData Skills
 
 Agent skills for [VeraData](https://api.veradata.dev) — verified Latin American compliance data for autonomous AI agents, pay-per-call via x402.
@@ -28,6 +32,8 @@ Payment is authentication: your agent hits the endpoint, gets a 402, signs a USD
 The AAT hash chain was audited byte-by-byte by an independent verifier and registered as an ERC-8299 conformance fixture. Two `decision_ref` proofs published. Full exchange: [x402-foundation/x402#2749](https://github.com/x402-foundation/x402/issues/2749)
 
 ## Links
+
+- **Live demo (no account):** https://api.veradata.dev/demo
 
 - API docs: https://api.veradata.dev/llms.txt
 - x402 discovery: https://api.veradata.dev/.well-known/x402
